@@ -1,3 +1,5 @@
+import fetch from '@system.fetch';
+import item4 from '../../i18n/weather_api.json';
 export default {
     data: {
     },
